@@ -3,6 +3,7 @@
 > Track your NSE/BSE stocks and crypto portfolio with live prices, AI-powered analysis, and an interactive chat assistant — all in one dark-themed dashboard.
 
 ---
+### Demo Link: https://finpilot-aiportfoliotracker.streamlit.app/
 
 ## Features
 
