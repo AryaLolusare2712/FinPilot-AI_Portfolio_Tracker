@@ -1,5 +1,17 @@
 # FinPilot — AI Portfolio Tracker
 
+## Architecture
+
+```mermaid
+flowchart LR
+  U[Investor] --> S[Streamlit dashboard]
+  S --> P[Portfolio engine]
+  P --> M[Stock and crypto price providers]
+  P --> G[Gemini AI assistant]
+  P --> D[Portfolio and transaction data]
+  P --> O[Analytics, chat, and reports]
+```
+
 > Track your NSE/BSE stocks and crypto portfolio with live prices, AI-powered analysis, and an interactive chat assistant — all in one dark-themed dashboard.
 
 
