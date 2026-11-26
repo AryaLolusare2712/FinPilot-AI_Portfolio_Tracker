@@ -7,6 +7,12 @@
 
 ---
 
+## Live Preview
+
+![FinPilot portfolio dashboard](docs/screenshots/finpilot-dashboard.png)
+
+---
+
 ## Features
 
 - **Portfolio Overview** — Live P&L, current value, allocation pie chart, and per-asset bar chart
