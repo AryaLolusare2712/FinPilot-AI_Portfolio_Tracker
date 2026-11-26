@@ -1,5 +1,9 @@
 # FinPilot — AI Portfolio Tracker
 
+## Project contribution
+
+Unifies Indian equity and crypto tracking with portfolio analytics, market context, and an AI assistant in a single dashboard.
+
 ## Architecture
 
 ```mermaid
@@ -77,8 +81,8 @@ flowchart LR
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AryaLolusare2712/AryaLolusare2712-FinPilot-AI_Portfolio_Tracker.git
-cd AryaLolusare2712-FinPilot-AI_Portfolio_Tracker
+git clone https://github.com/AryaLolusare2712/FinPilot-AI_Portfolio_Tracker.git
+cd FinPilot-AI_Portfolio_Tracker
 ```
 
 ### 2. Install dependencies
